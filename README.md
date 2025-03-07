@@ -1,2 +1,8 @@
-# To-Do-Application
-Stay organized effortlessly with this sleek and functional To-Do app! Built using React JS, Tailwind, Redux, and more, it offers a smooth and intuitive experience to manage tasks efficiently. Simple, fast, and designed to keep you on track!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
